@@ -1,0 +1,33 @@
+/* App.css */
+body {
+  background-image: url('Background-tile_2.jpg');
+  background-repeat: repeat;
+}
+
+.App {
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+  background-color: azure;
+}
+
+select {
+  margin: 20px;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+li:hover {
+  background-color: #f0f0f0;
+}
