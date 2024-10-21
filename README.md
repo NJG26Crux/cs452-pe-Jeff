@@ -10,3 +10,5 @@ On startup of the application, the browser populates the screen with the title, 
 The output is solely displayed in the user's browser and initially displays a complete list of all movies. This list can dynamically change in the DOM if the user selects a specific genre, which will change the display to only show movies that match that genre. If the user chooses to click on a specific movie, an alert pop-up will display the title of the movie.
 
 This assignment shows how inputs can be displayed and transformed into outputs through a defined process.
+
+<img width="744" alt="PE02_Screenshot" src="https://github.com/user-attachments/assets/03fc13aa-ff4b-4605-9f61-8d56d5f95bba">
