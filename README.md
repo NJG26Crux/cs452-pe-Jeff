@@ -1,4 +1,5 @@
-# cs452-pe-Jeff
+# PE02-MovieList/client
+by: Jeff Mobley
 
 ## Input:
 The MovieList.js file hard-coded a list of Movie objects with key-value pairs of title, genre, and release year as a JavaScript list. The user could interact with a dropdown menu to filter all movies to show only a specific genre.
